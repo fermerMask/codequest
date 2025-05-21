@@ -1,5 +1,13 @@
-/etc
-/Include
-/Scripts
-/share
+etc/
+Include/
+Scripts/
+share/
+Lib/
+
 *.cfg
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+progress.json
+.env
