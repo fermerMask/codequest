@@ -1,2 +1,2 @@
-stremalit
-stremlit-ace
+streamlit
+streamlit-ace
